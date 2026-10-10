@@ -1,0 +1,6 @@
+shadow prebuilt repo: libbt-vendor-intel (target)
+  upstream: hardware/libbt-vendor-intel
+  api-level: 32 (branch 32-20261010)
+  blobs: org.blisslabs.ag.libbt.vendor.intel-14000001.apex 
+  dev-src: none (no dev subpackage)
+  date: 2026-10-10
